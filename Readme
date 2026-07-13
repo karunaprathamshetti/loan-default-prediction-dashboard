@@ -49,11 +49,10 @@ jupyter notebook
 ```bash
 streamlit run dashboard.py
 ```
-          
-## 🎯 Results
-* Built a basic model to predict loan default risk
-* Gained understanding of real-world data handling
-* Learned how to transform raw data into insights
+## 📈 Results
+* Built a basic classification model to predict loan default  
+* Achieved initial prediction accuracy using simple machine learning techniques  
+* Identified key factors influencing loan default through data analysis  
 
 ## 🔮 Future Improvements
 * Improve model accuracy with advanced algorithms
