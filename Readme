@@ -1,0 +1,69 @@
+# 🚀 Loan Default Prediction Dashboard
+
+## 🌐 Live Demo
+👉  https://loan-default-prediction-dashboard
+6e2q3sqxlier9trnzmj4hd.streamlit.app/ 
+
+## 📊 Overview
+This project focuses on predicting whether a loan applicant is likely to default using basic Machine Learning techniques.
+The goal is to analyze financial data and extract meaningful insights that help in identifying high-risk applicants. A simple dashboard is also included to visualize key patterns in the dataset.
+
+## 🎯 Objectives
+* Understand real-world financial datasets
+* Perform data cleaning and preprocessing
+* Build a basic machine learning model
+* Visualize important insights using graphs
+* Create a simple dashboard for analysis
+
+## 🛠️ Tech Stack
+* 🐍 Python
+* 📊 Pandas
+* 🔢 NumPy
+* 📉 Matplotlib / Seaborn
+* 🤖 Machine Learning (Basic Models)
+* 🌐 Streamlit (Dashboard)
+
+## 📈 Key Features
+✔ Data preprocessing and cleaning
+✔ Exploratory Data Analysis (EDA)
+✔ Basic machine learning model for prediction
+✔ Visualization of patterns and trends
+✔ Simple interactive dashboard
+
+
+## 🚀 How to Run the Project
+### 🔹 1. Clone the repository
+```bash
+git clone https://github.com/karunaprathamshetti/loan-default-prediction-dashboard.git
+cd loan-default-prediction-dashboard
+```
+### 🔹 2. Install dependencies
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn streamlit
+```
+### 🔹 3. Run Jupyter Notebook
+```bash
+jupyter notebook
+```
+### 🔹 4. Run Dashboard (optional)
+```bash
+streamlit run dashboard.py
+```
+          
+## 🎯 Results
+* Built a basic model to predict loan default risk
+* Gained understanding of real-world data handling
+* Learned how to transform raw data into insights
+
+## 🔮 Future Improvements
+* Improve model accuracy with advanced algorithms
+* Add more interactive dashboard features
+* Deploy the project online
+* Use larger and more complex datasets
+
+## 🙋‍♂️ Author
+**Karuna Prathamshetti**
+📧 [karunaprathamshetti@gmail.com](mailto:karunaprathamshetti@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/karunaprathamshetti)
+💻 [GitHub](https://github.com/karunaprathamshetti)
+
